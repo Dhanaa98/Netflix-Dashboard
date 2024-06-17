@@ -1,5 +1,6 @@
 # Overview
 This repository hosts a project aimed at analyzing Movies and TV shows streamed on Netflix to provide insights mainly into their ratings. The analysis uses Excel as the primary data source followed by Power BI for designing an interactive dashboard for visualizations. The primary goal of the project is to explore Netflix's content library and uncover insights into their viewer ratings.
+
 ![Netflix Dashboard](https://github.com/Dhanaa98/Netflix-Dashboard/assets/171159250/ba371316-441a-4c3c-a0a9-da2eef9fb005)
 
 
